@@ -1,0 +1,4 @@
+# Project exclude paths
+/lambdaDemo02/target/
+/lambdaDemo03/target/
+/out/
